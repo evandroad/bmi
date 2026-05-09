@@ -5,8 +5,8 @@
     "short_name": "IMC",
     "icons": [
         {
-            "src": "imagem.png",
-            "sizes": "100x100"
+            "src": "bmi.png",
+            "sizes": "96x96"
         }
     ],
     "display": "standalone",
